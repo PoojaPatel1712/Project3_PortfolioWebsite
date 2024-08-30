@@ -3,11 +3,9 @@
 This project is a personal portfolio website designed to showcase my work, skills, and professional journey. The website will serve as a digital resume, allowing potential employers and collaborators to learn more about me. It will include sections for my projects, skills, and contact information.
 
 ## Project Structure
-Project3_PortfolioWebsite/
-│
-├── index.html        # Main webpage structure
-├── README.md         # Project documentation
-└── assets/           # Contains images, stylesheets, and scripts
+- index.html: Main webpage structure.
+- README.md: Project documentation.
+- assets/: Contains images, stylesheets, and scripts for the website
 
 ## Setup
 To set up and view the project locally, follow these steps:
@@ -18,7 +16,7 @@ To set up and view the project locally, follow these steps:
 
 ## Future Updates
 As the project develops, the following sections will be expanded:
--Features: Description of key features implemented.
+- Features: Description of key features implemented.
 - Technologies Used: List of technologies and tools used in building the website.
 - Contributing: Guidelines for contributing to the project.
 - License: Information about the project's licensing.
